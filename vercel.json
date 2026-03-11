@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd cuteness-test-app && npm install && npm run build",
+  "outputDirectory": "cuteness-test-app/.next",
+  "framework": "nextjs",
+  "installCommand": "cd cuteness-test-app && npm install"
+}
